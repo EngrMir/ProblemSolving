@@ -4,3 +4,6 @@ c:\users\user\documents\visual studio 2015\Projects\Problem_Itteration\Problem_I
 c:\users\user\documents\visual studio 2015\Projects\Problem_Itteration\Problem_Itteration\obj\Debug\Problem_Itteration.exe
 c:\users\user\documents\visual studio 2015\Projects\Problem_Itteration\Problem_Itteration\obj\Debug\Problem_Itteration.pdb
 c:\users\user\documents\visual studio 2015\Projects\Problem_Itteration\Problem_Itteration\obj\Debug\Problem_Itteration.csprojResolveAssemblyReference.cache
+D:\Problem Solving\Problem_Itteration\Problem_Itteration\bin\Debug\Problem_Itteration.exe.config
+D:\Problem Solving\Problem_Itteration\Problem_Itteration\obj\Debug\Problem_Itteration.exe
+D:\Problem Solving\Problem_Itteration\Problem_Itteration\obj\Debug\Problem_Itteration.pdb
